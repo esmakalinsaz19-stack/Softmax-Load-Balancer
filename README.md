@@ -1,4 +1,5 @@
 Softmax Tabanlı İstemci Taraflı Yük Dengeleyici (C Simülasyonu)
+
 Merhaba, bu proje Kırklareli Üniversitesi Yazılım Mühendisliği bölümü Algoritma Analizi ve Tasarımı dersi için hazırladığım bir yük dengeleme simülasyonudur.
 
 Projenin Amacı
